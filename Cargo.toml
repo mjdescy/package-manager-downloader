@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 clap = { version = "4", features = ["derive"] }
+reqwest = "0.13.5"
+tokio = "1.53.1"
